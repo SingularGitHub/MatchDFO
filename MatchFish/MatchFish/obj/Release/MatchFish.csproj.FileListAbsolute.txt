@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\MatchFish\MatchFish\bin\Release\MatchFish.exe.config
+C:\Users\User\source\repos\MatchFish\MatchFish\bin\Release\MatchFish.exe
+C:\Users\User\source\repos\MatchFish\MatchFish\bin\Release\MatchFish.pdb
+C:\Users\User\source\repos\MatchFish\MatchFish\obj\Release\MatchFish.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MatchFish\MatchFish\obj\Release\MatchFish.exe
+C:\Users\User\source\repos\MatchFish\MatchFish\obj\Release\MatchFish.pdb

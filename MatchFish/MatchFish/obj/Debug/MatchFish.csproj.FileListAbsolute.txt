@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MatchFish\MatchFish\bin\Debug\MatchFish.exe.config
+C:\Users\User\source\repos\MatchFish\MatchFish\bin\Debug\MatchFish.exe
+C:\Users\User\source\repos\MatchFish\MatchFish\bin\Debug\MatchFish.pdb
+C:\Users\User\source\repos\MatchFish\MatchFish\obj\Debug\MatchFish.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MatchFish\MatchFish\obj\Debug\MatchFish.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MatchFish\MatchFish\obj\Debug\MatchFish.exe
+C:\Users\User\source\repos\MatchFish\MatchFish\obj\Debug\MatchFish.pdb
